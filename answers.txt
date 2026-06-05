@@ -1,7 +1,11 @@
 Q1: Why might we consider using Git?
 
-Answer: It is easy and efficienct
+Answer: It is an easy and efficient way to control various versions and changes in code.
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: Biology
+Answer: Biology, if we want to analyze data sample from different molecules or proteins.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging applies any changes to files on a different branch to the current branch, while Rebasing rewrites the previous changes made from a different branch onto the current branch.
