@@ -9,3 +9,7 @@ Answer: Biology, if we want to analyze data sample from different molecules or p
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging applies any changes to files on a different branch to the current branch, while Rebasing rewrites the previous changes made from a different branch onto the current branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: This semester, I am looking forward to utilizing my past skills and my newly gained skills to learn more important and valuable data analysis and processing techniques in Data Science.
